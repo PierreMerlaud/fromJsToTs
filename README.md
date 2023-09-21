@@ -1,1 +1,3 @@
 # fromJsToTs
+
+- appréhender TypeScript.
