@@ -1,3 +1,3 @@
 # fromJsToTs
 
-- appréhender TypeScript.
+- découvrir TypeScript.
